@@ -7,5 +7,7 @@ public class test_git {
         System.out.println("v3");
         System.out.println("现在是在bug-fix分支 modify");
         System.out.println("现在是 master 分支 modify");
+        System.out.println("测试 推送到github");
     }
+
 }
